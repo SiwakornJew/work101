@@ -1,0 +1,15 @@
+2020-12-14.22:44:52	Enemy and Bullet collision!
+2020-12-14.22:44:53	Enemy and Bullet collision!
+2020-12-14.22:44:53	Enemy and Bullet collision!
+2020-12-14.22:44:54	Enemy and Bullet collision!
+2020-12-14.22:44:55	Enemy and Bullet collision!
+2020-12-14.22:44:56	Enemy and Bullet collision!
+2020-12-14.22:44:56	Ship and Bullet collision!
+2020-12-14.22:44:57	Enemy and Bullet collision!
+2020-12-14.22:44:57	SmartEnemy and Bullet collision!
+2020-12-14.22:44:57	SmartEnemy and Bullet collision!
+2020-12-14.22:44:58	SmartEnemy and Bullet collision!
+2020-12-14.22:44:58	Ship and Bullet collision!
+2020-12-14.22:44:58	Enemy and Bullet collision!
+2020-12-14.22:44:58	SmartEnemy and Bullet collision!
+2020-12-14.22:44:59	Enemy and Bullet collision!
